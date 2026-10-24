@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-24T18:22:59.901Z",
+  "items": {
+    "problem:1210": {
+      "kind": "problem",
+      "id": "1210",
+      "title": "Forward Kinematics of a 2-Link Planar Arm",
+      "difficulty": "easy",
+      "category": "Robotics",
+      "url": "https://www.deep-ml.com/problems/1210",
+      "path": "problems/1210-forward-kinematics-of-a-2-link-planar-arm",
+      "first_solved_at": "2026-10-24T18:22:54.131Z",
+      "last_pushed_at": "2026-10-24T18:22:54.131Z",
+      "language": "python",
+      "lines": 11
+    }
+  }
+}
